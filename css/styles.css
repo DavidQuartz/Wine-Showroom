@@ -172,7 +172,7 @@ section {
 }
 .section-1-wrapper {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)),
-    url(images/section-1-bg.jpg);
+    url(./images/section-1-bg.jpg);
   background-size: cover;
 }
 .section-1-heading-wrapper {
@@ -194,7 +194,7 @@ section {
 }
 .section-2-wrapper {
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)),
-    url(images/section-2-bg.jpg);
+    url(./images/section-2-bg.jpg);
   background-size: cover;
 }
 .sale {
@@ -229,7 +229,7 @@ section {
 }
 .section-3-wrapper {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.9)),
-    url(images/section-3-bg.jpg);
+    url(./images/section-3-bg.jpg);
   background-size: cover;
   justify-content: center;
 }
@@ -265,7 +265,7 @@ section {
   width: 110%;
   height: 110%;
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)),
-    url(images/section-4-bg.jpg) center no-repeat;
+    url(./images/section-4-bg.jpg) center no-repeat;
   z-index: -1;
   filter: blur(0.5rem);
 }
@@ -288,7 +288,7 @@ section {
 }
 .section-5-wrapper {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)),
-    url(images/section-5-bg.jpg);
+    url(./images/section-5-bg.jpg);
   background-size: cover;
   justify-content: center;
 }
